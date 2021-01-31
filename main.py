@@ -7,7 +7,7 @@ try:
 except ImportError:
    exit("install requests and try again ...")
 
-ascii_banner = pyfiglet.figlet_format("Coder by Qualin")
+ascii_banner = pyfiglet.figlet_format("Coded by Qualin")
 print(ascii_banner)
 
 
